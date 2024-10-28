@@ -28,6 +28,6 @@ I am a Senior Full Stack Developer and Mobile App Specialist with over 10 years 
 
 <p align="center"> 
   Total Visitors on Ahmad's Profile<br>
-  <img src="https://profile-counter.glitch.me/mahsanr44/count.svg" />
+  <img src="https://profile-counter.glitch.me/ndev-agency/count.svg" />
 </p> 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
