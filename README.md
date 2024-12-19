@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a Senior Full-Stack Developer and Mobile App Specialist with over 10 years of experience in web and mobile app development, delivering exceptional results for businesses of all sizes. My expertise spans across React.js, Node.js, Nest.js, Next.js, Python, Django, Java, Kotlin, and Swift, ensuring top-quality solutions tailored to your needs.
-
+I am passionate about staying ahead of industry trends and leveraging the latest technologies to drive innovation and growth for my clients.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
